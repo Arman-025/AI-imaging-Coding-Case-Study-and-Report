@@ -1,0 +1,52 @@
+[
+  {
+    "run": 1,
+    "raw_output": "{\n  \"modality\": \"uncertain\",\n  \"tissue_type\": \"uncertain\",\n  \"notable_features\": \"Multiple small, light gray objects against a dark background. The objects vary in shape and size, with some appearing circular and others elongated. There is no clear pattern or arrangement among the objects.\",\n  \"image_quality\": \"Low contrast, with the objects barely distinguishable against the dark background. There is some blurring, which makes it difficult to discern the finer details of the objects.\"\n}",
+    "parsed_json": {
+      "modality": "uncertain",
+      "tissue_type": "uncertain",
+      "notable_features": "Multiple small, light gray objects against a dark background. The objects vary in shape and size, with some appearing circular and others elongated. There is no clear pattern or arrangement among the objects.",
+      "image_quality": "Low contrast, with the objects barely distinguishable against the dark background. There is some blurring, which makes it difficult to discern the finer details of the objects."
+    }
+  },
+  {
+    "run": 2,
+    "raw_output": "{\n  \"modality\": \"uncertain\",\n  \"tissue_type\": \"uncertain\",\n  \"notable_features\": \"Sparse distribution of small, bright points on a dark background with varying shapes and sizes.\",\n  \"image_quality\": \"Low contrast, low resolution, potential artefacts visible in some features.\"\n}",
+    "parsed_json": {
+      "modality": "uncertain",
+      "tissue_type": "uncertain",
+      "notable_features": "Sparse distribution of small, bright points on a dark background with varying shapes and sizes.",
+      "image_quality": "Low contrast, low resolution, potential artefacts visible in some features."
+    }
+  },
+  {
+    "run": 3,
+    "raw_output": "{\n  \"modality\": \"uncertain\",\n  \"tissue_type\": \"uncertain\",\n  \"notable_features\": \"dots of varying sizes scattered across a dark background\",\n  \"image_quality\": \"moderate contrast, low resolution, and potential artifacts\"\n}",
+    "parsed_json": {
+      "modality": "uncertain",
+      "tissue_type": "uncertain",
+      "notable_features": "dots of varying sizes scattered across a dark background",
+      "image_quality": "moderate contrast, low resolution, and potential artifacts"
+    }
+  },
+  {
+    "run": 4,
+    "raw_output": "{\n  \"modality\": \"uncertain\",\n  \"tissue_type\": \"uncertain\",\n  \"notable_features\": \"Small, bright circular and elongated shapes scattered against a dark background. Some shapes appear grouped, while others are isolated.\",\n  \"image_quality\": \"High contrast with a dark background, but the image is not clear enough to determine the exact modality or tissue type. Some shapes have a slight blur or artifacts.\"\n}",
+    "parsed_json": {
+      "modality": "uncertain",
+      "tissue_type": "uncertain",
+      "notable_features": "Small, bright circular and elongated shapes scattered against a dark background. Some shapes appear grouped, while others are isolated.",
+      "image_quality": "High contrast with a dark background, but the image is not clear enough to determine the exact modality or tissue type. Some shapes have a slight blur or artifacts."
+    }
+  },
+  {
+    "run": 5,
+    "raw_output": "{\n  \"modality\": \"uncertain\",\n  \"tissue_type\": \"uncertain\",\n  \"notable_features\": \"The image shows a collection of small, white, rounded objects scattered across a dark background. Some of the objects appear to be slightly elongated or elongated with a rounded shape. There is no clear indication of density or spatial arrangement that would suggest a specific tissue type or imaging modality.\",\n  \"image_quality\": \"The image has a high level of contrast between the white objects and the dark background. The resolution appears to be adequate for distinguishing individual objects, but there are no obvious artefacts or blur that would affect the interpretation of the image.\"\n}",
+    "parsed_json": {
+      "modality": "uncertain",
+      "tissue_type": "uncertain",
+      "notable_features": "The image shows a collection of small, white, rounded objects scattered across a dark background. Some of the objects appear to be slightly elongated or elongated with a rounded shape. There is no clear indication of density or spatial arrangement that would suggest a specific tissue type or imaging modality.",
+      "image_quality": "The image has a high level of contrast between the white objects and the dark background. The resolution appears to be adequate for distinguishing individual objects, but there are no obvious artefacts or blur that would affect the interpretation of the image."
+    }
+  }
+]

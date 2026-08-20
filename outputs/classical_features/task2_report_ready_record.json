@@ -1,0 +1,12 @@
+{
+  "task": "Task 2 \u2014 Classical post-processing",
+  "segmentation_method": "Otsu thresholding with morphological cleanup",
+  "feature_extraction": "Connected components + regionprops_table",
+  "llm_method": "Numbers-first text-only Qwen interpretation",
+  "images_evaluated": 12,
+  "mean_dice": 0.9775505897124698,
+  "mean_iou": 0.9561094995174709,
+  "mean_precision": 0.9776398240778909,
+  "mean_recall": 0.9775030277286519,
+  "direct_unet_mask_comparison_available": false
+}

@@ -1,0 +1,23 @@
+{
+  "image_id": "test_004.png",
+  "numerical_summary": {
+    "image_id": "test_004.png",
+    "n_objects": 43,
+    "mean_area": 329.48837209302326,
+    "median_area": 235.0,
+    "mean_eccentricity": 0.6586007538154596,
+    "mean_solidity": 0.9299502957172258,
+    "mean_extent": 0.7166894747872711,
+    "mean_perimeter": 69.93850460457735,
+    "mean_intensity": 0.25734943775243535,
+    "foreground_fraction": 0.2161865234375
+  },
+  "structured_json": {
+    "n_objects": 43,
+    "density_class": "moderate",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable"
+  },
+  "raw_llm_response": "The image contains 43 objects with a moderate density, regular shape, and an acceptable quality. The objects have a mean eccentricity of 0.6586, indicating some irregularity in shape, and a mean solidity of 0.9300, suggesting they are mostly compact. The mean intensity and foreground fraction suggest the objects are relatively faint and not strongly foregrounded.\n\n{\n  \"n_objects\": 43,\n  \"density_class\": \"moderate\",\n  \"shape_regularity\": \"regular\",\n  \"quality_flag\": \"acceptable\"\n}",
+  "status": "success"
+}
